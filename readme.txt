@@ -29,7 +29,7 @@ SplitWit Privacy Policy: https://www.splitwit.com/privacy-policy
 
 3) After signing up, you can create a new SplitWit project for your website.
 
-4) Find that project's ID code, and copy/paste it into this plugin's setting page.
+4) Find that project's ID code, and copy/paste it into this plugin's settings page.
 
 That's it - you're ready to start experimenting and improving your website.
 
